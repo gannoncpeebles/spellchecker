@@ -1,6 +1,4 @@
-# Homework 8
-
-## Problem 1 - Implementing a Spell Checker
+# Implementing a Spell Checker
 
 Implement a spell-checker by using a hash table. You will create a class called `SpellChecker` in the file `SpellChecker.java` that implements the interface `SpellCheckerInterface.java`.  The object will try to check for spelling errors in an input file, referencing a provided dictionary file. The `SpellChecker` object must accept the filename of the dictionary in its constructor. There is a sample dictionary file in the Codio workspace called `words.txt`.
 
